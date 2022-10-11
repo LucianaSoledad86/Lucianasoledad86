@@ -16,6 +16,7 @@ Hi 👋🏻, I'm Luciana !!
 •Git
 •HTML
 •CSS
+•NextJs
 </div>
 <br></br>
 <div align="center"> 
