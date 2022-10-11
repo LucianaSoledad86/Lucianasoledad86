@@ -6,7 +6,7 @@ Hi 👋🏻, I'm Luciana !!
 
 - 📫 How to reach me **revivocelulares@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/diego-ferreira-2b514243](https://www.linkedin.com/in/diego-ferreira-2b514243)
+ [https://www.linkedin.com/in/diego-ferreira-2b514243](https://www.linkedin.com/in/diego-ferreira-2b514243)
 
 <br />
 <h2 align="center">Languages and Tools:</h2>
@@ -40,6 +40,7 @@ Hi 👋🏻, I'm Luciana !!
 <br></br>
 <h2 align="center">Contact</h2>
 <div align="center"> 
+  <p>📄 Know about my experiences</p>
   <a href="https://www.linkedin.com/in/luciana-soledad-diaz/">
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
