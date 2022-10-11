@@ -1,6 +1,6 @@
 Hi 👋🏻, I'm Luciana !!
 
-- 🌱 I’m currently learning **| React native | | Prisma | | TypeScript |**
+- 🌱 I’m currently learning **| NextJS |**
 
 - 💬 Ask me about **reactJS, redux, expressJS, nodeJS**
 
