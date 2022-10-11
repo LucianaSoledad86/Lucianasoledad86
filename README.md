@@ -1,5 +1,13 @@
 Hi 👋🏻, I'm Luciana !!
 
+- 🌱 I’m currently learning **| React native | | Prisma | | TypeScript |**
+
+- 💬 Ask me about **reactJS, redux, expressJS, nodeJS**
+
+- 📫 How to reach me **revivocelulares@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/diego-ferreira-2b514243](https://www.linkedin.com/in/diego-ferreira-2b514243)
+
 <br />
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
