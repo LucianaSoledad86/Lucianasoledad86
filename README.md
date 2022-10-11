@@ -38,7 +38,7 @@ Hi 👋🏻, I'm Luciana !!
       <img align="center" src="https://icons.iconarchive.com/icons/designbolts/pink-girly-social/256/Hover-LinkedIn-icon.png" height="50" width="50" />
     </a>
   <a href="mailto:luciana.diaz1337@outlook.com">
-      <img align= "center" src="https://img2.freepng.es/20180401/cwe/kisspng-outlook-com-microsoft-outlook-logo-microsoft-offic-outlook-5ac078594dd532.5951870815225631613188.jpg" height="50" width="50" />
+      <img align= "center" src="https://icones.pro/wp-content/uploads/2022/04/icone-outlook-rose-1.png" height="50" width="50" />
     </a>
 </div>
 <!--
