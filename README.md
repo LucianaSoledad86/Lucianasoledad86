@@ -35,7 +35,7 @@
 <h2 align="center">Contact</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/luciana-soledad-diaz/">
-      <img align="center" src="https://icons.iconarchive.com/icons/designbolts/pink-girly-social/256/Hover-LinkedIn-icon.png" height="50" width="50" />
+      <img align="center" src="https://www.citypng.com/public/uploads/small/11640440462vimbiozsfk65l4mndcf2ngmgxkdrjjszayixm3mjfcrvu1p4zpv8o3eznbaxibfxh4pyw6uv0klchzcpl0so51nmne3x3v2innj2.png" height="50" width="50" />
     </a>
   <a href="mailto:luciana.diaz1337@outlook.com">
       <img align= "center" src="https://icones.pro/wp-content/uploads/2022/04/icone-outlook-rose-1.png" height="50" width="50" />
