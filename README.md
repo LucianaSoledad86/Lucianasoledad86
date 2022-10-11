@@ -1,7 +1,6 @@
 Hi 👋🏻, I'm Luciana !!
 
 - 💬 Ask me about **reactJS, redux, expressJS, nodeJS**
-
 <br />
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
