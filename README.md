@@ -32,10 +32,10 @@ Hi 👋🏻, I'm Luciana !!
 <br></br>
 <h2 align="center">Contact</h2>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/rodrigo-hernandez-4a8b5523b/">
+  <a href="https://www.linkedin.com/in/luciana-soledad-diaz/">
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
-  <a href="mailto:rodri_h87@hotmail.com">
+  <a href="mailto:luciana.diaz1337@outlook.com">
       <img align= "center" src="https://img2.freepng.es/20180401/cwe/kisspng-outlook-com-microsoft-outlook-logo-microsoft-offic-outlook-5ac078594dd532.5951870815225631613188.jpg" height="50" width="50" />
     </a>
 </div>
