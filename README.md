@@ -10,7 +10,7 @@ Hi 👋🏻, I'm Luciana !!
 •PostgreSQL
 •Express
 •Sequelize
-•Insomnia
+•Postman
 •Git
 •HTML
 •CSS
@@ -24,7 +24,7 @@ Hi 👋🏻, I'm Luciana !!
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"><img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" background-color="#ffffff" alt="express" width="40" height="40" /> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a>
-<a href="https://insomnia.rest/" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="40" height="40" /> </a>
+<a href="https://insomnia.rest/" target="_blank"> <img src="vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
