@@ -1,6 +1,5 @@
-Hi 👋🏻, I'm Luciana !!
+<a href="https://ibb.co/Qj6gnbD"><img src="https://i.ibb.co/6J4MbnX/github.jpg" alt="github" border="0"></a>
 
-- 💬 Ask me about **reactJS, redux, expressJS, nodeJS**
 <br />
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
