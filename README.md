@@ -1,7 +1,7 @@
 <a href="https://ibb.co/L8jrmK1"><img src="https://i.ibb.co/mGZ0kp4/github.jpg" alt="github" border="0" width="1200" height="300"></a>
 
 <div align="center">
-🚀 Estoy iniciando en el mundo IT. Mi experiencia académica comienzó en Henry estudiando Desarrollo Full Stack a remoto, programando en prácticas y proyectos reales.
+🚀 Estoy iniciando en el mundo IT. Mi experiencia académica comenzó en Henry estudiando Desarrollo Full Stack a remoto, programando en prácticas y proyectos reales.
 <br />
 <br />
 👩🏻‍💻 Soy una persona empática, responsable, tengo una gran capacidad adaptativa, curiosa y proactiva. 
