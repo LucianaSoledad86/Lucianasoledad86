@@ -6,7 +6,7 @@
 <br />
 👩🏻‍💻 Soy una persona empática, responsable, tengo una gran capacidad adaptativa, curiosa y proactiva. 
 <br />
-  Muy dispuesta a enfrentarme a nuevos desafios y a seguir aprendiendo.
+  Muy dispuesta a nuevos desafios y a seguir aprendiendo.
 </div>
 
 <br />
