@@ -1,4 +1,13 @@
-<a href="https://ibb.co/L8jrmK1"><img src="https://i.ibb.co/mGZ0kp4/github.jpg" alt="github" border="0"></a>
+<a href="https://ibb.co/L8jrmK1"><img src="https://i.ibb.co/mGZ0kp4/github.jpg" alt="github" border="0" width="1200" height="300"></a>
+
+<div align="center">
+🚀 Estoy iniciando en el mundo IT. Mi experiencia académica comienzó en Henry estudiando Desarrollo Full Stack a remoto, programando en prácticas y proyectos reales.
+<br />
+<br />
+👩🏻‍💻 Soy una persona empática, responsable, tengo una gran capacidad adaptativa, curiosa y proactiva. 
+<br />
+  Muy dispuesta a enfrentarme a nuevos desafios y a seguir aprendiendo.
+</div>
 
 <br />
 <h2 align="center">Languages and Tools:</h2>
@@ -31,7 +40,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" alt="css3" width="40" height="40"/> </a>
 </div>
-<br></br>
+<br>
 <h2 align="center">Contact</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/luciana-soledad-diaz/">
